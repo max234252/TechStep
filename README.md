@@ -21,4 +21,4 @@ ROM dumps are in the ROM directory. These where not created by me, I believe the
 
 # Clones you say?
 Yes, this was originally done to produce clones :)
-If you are interested in purchasing A clone you can contact me on 68kmla or TinkerDifferent (I go by the name "max1zzz on both) or they are available in the US from CayMac Vintage's store 
+If you are interested in purchasing A clone you can contact me on 68kmla or TinkerDifferent (I go by the name "max1zzz" on both) or they are available in the US from CayMac Vintage's store 

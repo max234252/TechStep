@@ -17,7 +17,7 @@ A tracing of the Keypad PCB done in Sprint Layout 6 is in the "Keypad" directory
 
 # What about the ROM Packs?
 I never even traced these out as SuperSVGA beat me to it, Gerbers of his clone ROM are available elsewhere
-ROM dumps are in the ROM directory. These where not created by me, I believe these dumps are all from either SuperSVGA or Jajan547 but if I'm wrong pleas let me know and I'll update the credits appropriately 
+ROM dumps are in the ROM directory. These where not created by me, I believe these dumps are all from either SuperSVGA or Jajan547 but if anyone knows otherwise please let me know and I'll update the credits appropriately 
 
 # Clones you say?
 Yes, this was originally done to produce clones :)

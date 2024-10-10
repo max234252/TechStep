@@ -1,0 +1,5 @@
+Not to worry both ROM images work the same
+,one "TechStep_CPU_Tests_VolumeII_v1.0 REVISED"
+, is just a cleaned up and simplified version.
+Again both work the same it's just a matter of 
+which you decide to use.

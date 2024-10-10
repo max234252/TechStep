@@ -1,0 +1,13 @@
+You will see two different versions
+of CPU Tests Vol.4 v1.0, what this means
+is that the "CPU_Tests _VolumeIV_v1.0 Revised"
+(below and not in a folder) is the working version
+of this particular ROM. The other is in a separate 
+file marked "Prototype CPU Tests Vol.4 v1.0" 
+this was extracted from a Prototype ROM of this 
+particular image and you will see that in a program 
+that reads .bin files at the bottom there is information 
+from the team who created the fourth and last ROM. 
+This ROM freezes and has some bugs, hence why we don't want to 
+use it. If you want to mess with it or change things you are 
+welcome to, consider it a learning device or hidden easter egg.
